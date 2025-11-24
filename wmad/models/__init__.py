@@ -1,6 +1,6 @@
 """WMAD models module."""
 
-from .mead import MEAD, MEADLoss
+from .wmad import MEAD, MEADLoss
 from .base_model import BaseDeepAD
 
 # Alias for external use
