@@ -33,19 +33,6 @@ scores = model.decision_function(X1_test, X2_test, X3_test)
 
 See `example.py` for a complete working example with synthetic data and baseline comparisons.
 
-## Citation
-
-If you use WMAD in your research, please cite:
-
-```bibtex
-@software{wmad2024,
-  title={WMAD: Weakly-supervised Multi-view Anomaly Detection},
-  author={Zhice Gong},
-  year={2024},
-  url={https://github.com/GoneZC/WMAD}
-}
-```
-
 ## Acknowledgments
 
 This project is built upon the [DeepOD](https://github.com/xuhongzuo/DeepOD) library.
